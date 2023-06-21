@@ -8,8 +8,8 @@
 
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://www.dataquest.io/wp-content/uploads/2018/11/time-series-pandas_78_0.png)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a>
+    <img src="https://www.dataquest.io/wp-content/uploads/2018/11/time-series-pandas_78_0.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
