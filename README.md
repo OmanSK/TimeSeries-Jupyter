@@ -9,28 +9,24 @@
 <br />
 <div align="center">
   <a>
-    <img src="https://www.dataquest.io/wp-content/uploads/2018/11/time-series-pandas_78_0.png" alt="Logo" width="160" height="80">
+    <img src="https://www.dataquest.io/wp-content/uploads/2018/11/time-series-pandas_78_0.png" alt="Logo" width="320" height="160">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">TimeSeriesPrediction</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+## About The Project
 
-Предсказание потребности в автомобилях на следующий час на основании исторических данных о загруженности такси.
-Цель: прогноз количества заказов позволит сократить убытки на привлечение большего числа водителей
-Также составлен анализ TS
+Предсказание потребности в автомобилях такси на следующий час на основании исторических данных о загруженности такси.
+Цель подобной работы:
+* Сокращение издержек на выплаты по причине простоя водителей 
+* Ориентация на час вперед позволит заранее предсказать минимальное число машин, которые должны быть на смене
+
+Что сделано:
+* Анализ временного ряда, работа по подготовке данных (устранение тренда)
+* Создание моделей классического ML (бустинг и анализ sarima) для предсказания на 1 час вперед
+* Создание моделей глубокого обучения (реккурентная сеть LSTM, NeuralProphet) для предсказания на 2 часа и на час вперед соответственно
+* Вывод и выбор лучшей модели
+
 
 
 
