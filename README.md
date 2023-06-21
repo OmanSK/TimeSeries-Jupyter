@@ -1,5 +1,5 @@
 # TimeSeries-Jupyter
-![Analysys](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)
+![Analysis](https://img.shields.io/badge/Analysis-827141?style=flat)
 ![TimeSeries](https://img.shields.io/badge/TimeSeries-827141?style=flat)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-827141?style=flat)
 ![Catboost](https://img.shields.io/badge/Catboost-cf8378?style=flat)
